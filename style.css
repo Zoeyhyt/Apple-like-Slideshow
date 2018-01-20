@@ -59,6 +59,7 @@ main >h2 >a:hover {
     width: 920px;
     height: 400px;
     overflow: hidden;
+    transition: all .6s;
 }
 .slide {
     float: left;
